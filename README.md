@@ -1,3 +1,4 @@
 - 👋 Hi, I’m  Jefferson Nascimento!
-- 🌱 I’m currently learning Python, HTML, CSS & JS
+- 🌱 skills in Python, HTML, CSS & JS
 - 💞️ Cursando Analise e desenvolvimento de sistemas
+- ✔  Tecnico em Eletrônica
