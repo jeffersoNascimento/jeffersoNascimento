@@ -1,4 +1,4 @@
 - 👋 Hi, I’m  Jefferson Nascimento!
 - 🌱 skills in Python, HTML, CSS , JS & React
-- 💞️ Cursando Analise e desenvolvimento de sistemas
+- ✅ Analise e desenvolvimento de sistemas
 - ✔  Tecnico em Eletrônica
